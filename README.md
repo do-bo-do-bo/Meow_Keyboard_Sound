@@ -45,7 +45,6 @@ pip install -r requirements.txt
 참고: requirements.txt 파일은 다음과 같이 구성되어 있습니다.
 
 ```plaintext
-코드 복사
 pynput==1.7.6
 playsound==1.2.2
 ```
